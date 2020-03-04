@@ -1,0 +1,24 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #ff0000;
+}
+
+p{
+    margin: 0;
+}
+
+.container{
+    width: 95%;
+    max-width: $container;
+    margin: 0 auto;
+}
+
+.section{
+    height: 100vh;
+    min-width: 650px;
+    position: relative;
+}
